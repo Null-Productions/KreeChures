@@ -1,0 +1,21 @@
+F:\null-productions\kree-chures\Kree Chures\bin\Windows\x86\Debug\Kree Chures.exe
+F:\null-productions\kree-chures\Kree Chures\bin\Windows\x86\Debug\Kree Chures.pdb
+F:\null-productions\kree-chures\Kree Chures\bin\Windows\x86\Debug\MonoGame.Framework.dll
+F:\null-productions\kree-chures\Kree Chures\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+F:\null-productions\kree-chures\Kree Chures\bin\Windows\x86\Debug\SharpDX.dll
+F:\null-productions\kree-chures\Kree Chures\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+F:\null-productions\kree-chures\Kree Chures\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+F:\null-productions\kree-chures\Kree Chures\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+F:\null-productions\kree-chures\Kree Chures\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+F:\null-productions\kree-chures\Kree Chures\bin\Windows\x86\Debug\SharpDX.XInput.dll
+F:\null-productions\kree-chures\Kree Chures\bin\Windows\x86\Debug\MonoGame.Framework.xml
+F:\null-productions\kree-chures\Kree Chures\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+F:\null-productions\kree-chures\Kree Chures\bin\Windows\x86\Debug\SharpDX.xml
+F:\null-productions\kree-chures\Kree Chures\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+F:\null-productions\kree-chures\Kree Chures\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+F:\null-productions\kree-chures\Kree Chures\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+F:\null-productions\kree-chures\Kree Chures\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+F:\null-productions\kree-chures\Kree Chures\bin\Windows\x86\Debug\SharpDX.XInput.xml
+F:\null-productions\kree-chures\Kree Chures\obj\x86\Debug\Kree Chures.csprojResolveAssemblyReference.cache
+F:\null-productions\kree-chures\Kree Chures\obj\x86\Debug\Kree Chures.exe
+F:\null-productions\kree-chures\Kree Chures\obj\x86\Debug\Kree Chures.pdb
